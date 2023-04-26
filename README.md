@@ -1,3 +1,4 @@
+<img src="github-header-image.png">
 <h1 align="center">Hi 👋, I'm Abdishakour</h1>
 <h3 align="center">i'm Frontend Developer, aspiring to become fullstack!</h3>
 
