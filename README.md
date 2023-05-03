@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdishakour</h1>
+# 🌌 Hi 👋, I'm Abdishakour
+
+**`Software Engineer (Web Developer/Front-End Developer/)`**
+
 <h3 align="center">i'm Frontend Developer, aspiring to become fullstack!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashakour1&label=Profile%20views&color=0e75b6&style=flat" alt="ashakour1" /> </p>
