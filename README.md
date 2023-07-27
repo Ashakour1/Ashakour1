@@ -2,8 +2,6 @@
 
 <h3 align="center">I'm Software developer , i like to enjoy Writting coding and solving problems. and i Have more passion!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashakour1&label=Profile%20views&color=0e75b6&style=flat" alt="ashakour1" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ashakour17" target="blank"><img src="https://img.shields.io/twitter/follow/ashakour17?logo=twitter&style=for-the-badge" alt="ashakour17" /></a> </p>
 
 - 🔭 I’m currently working on **Expense Management System**
