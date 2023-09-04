@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Abdishakour</h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer 🚀 </h3>
+<h3 align="center">I'm a passionate Full Stack Developer 🚀 | Turning ideas into elegant solutions 💡 | Frontend & Backend magician 🎩 | Lover of clean code</h3>
 
 <p align="left"> <a href="https://twitter.com/ashakour17" target="blank"><img src="https://img.shields.io/twitter/follow/ashakour17?logo=twitter&style=for-the-badge" alt="ashakour17" /></a> </p>
 
