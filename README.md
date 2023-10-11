@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashakour17" target="blank"><img src="https://img.shields.io/twitter/follow/ashakour17?logo=twitter&style=for-the-badge" alt="ashakour17" /></a> </p>
 
-- 🔭 I’m currently working on **My Portofolio**
-
-- 🌱 I’m currently learning **React , much more**
+- 🌱 I’m currently Working **My-portofolio  ,My First Side-project**
 
 <div> 
   <a href="https://www.instagram.com/shakra_mohamad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
