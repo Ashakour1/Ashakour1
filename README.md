@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-<p align="left"> <a href="https://twitter.com/ashakour17" target="blank"><img src="https://img.shields.io/twitter/follow/ashakour17?logo=twitter&style=for-the-badge" alt="ashakour17" /></a> </p> 
+<p align=""> <a href="https://twitter.com/ashakour17" target="blank"><img src="https://img.shields.io/twitter/follow/ashakour17?logo=twitter&style=for-the-badge" alt="ashakour17" /></a> </p> 
 <a href="https://www.linkedin.com/in/a-shakour-mohammed-90836725a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 # 💻 Tech Stack:
