@@ -2,7 +2,7 @@
 
 # 🚀Abdishakour!
 <hr>
-<p>
+<p style="font-size: 16px;">
 Greetings! I'm a highly skilled Fullstack Developer with 2 years of professional experience, and I am currently pursuing a degree in Computer Science at Jamhuuriyo University of Science & Technology.
  With a strong foundation in both front-end and back-end development, I possess a diverse skill set that enables me to create exceptional web applications. My goal is to build seamless, user-friendly solutions that cater to the unique needs of businesses and users.
 
