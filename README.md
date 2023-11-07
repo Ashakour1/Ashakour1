@@ -4,7 +4,7 @@
 <hr>
 
 
-Hey there! 👋 I'm a dedicated Fullstack Developer with 2 years of professional experience and currently a third-year student pursuing a Computer Science degree at Jamhuuriyo University of Science & Technology.
+Hey there! 👋 I'm a dedicated Fullstack Developer with 2 years of experience and currently a third-year student pursuing a Computer Science degree at Jamhuuriyo University of Science & Technology.
 
 My expertise spans both front-end and back-end development, allowing me to create top-notch web applications. I'm passionate about crafting seamless, user-friendly solutions that meet the unique needs of businesses and users.
 
