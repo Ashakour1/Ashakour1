@@ -2,12 +2,16 @@
 
 # 🚀Abdishakour!
 <hr>
-<p style="font-size: 20px;">
-Greetings! I'm a highly skilled Fullstack Developer with 2 years of professional experience, and I am currently pursuing a degree in Computer Science at Jamhuuriyo University of Science & Technology.
- With a strong foundation in both front-end and back-end development, I possess a diverse skill set that enables me to create exceptional web applications. My goal is to build seamless, user-friendly solutions that cater to the unique needs of businesses and users.
 
-On the front-end, I specialize in HTML, CSS, and JavaScript, utilizing popular frameworks like React and Svelte to craft engaging and intuitive user interfaces. I pay meticulous attention to detail, ensuring that my designs are visually appealing and provide an outstanding user experience.
 
- When it comes to the back-end, I have hands-on experience with Php and JavaScript (Node.js). I excel in developing robust RESTful APIs, working with both SQL and NoSQL databases, and implementing stringent security measures to protect sensitive data.
+Hey there! 👋 I'm a dedicated Fullstack Developer with 2 years of professional experience and currently on the journey to earn a Computer Science degree at Jamhuuriyo University of Science & Technology.
+
+My expertise spans both front-end and back-end development, allowing me to create top-notch web applications. I'm passionate about crafting seamless, user-friendly solutions that meet the unique needs of businesses and users.
+
+On the front-end, I thrive in HTML, CSS, and JavaScript, using popular frameworks like React and Svelte to build captivating and user-friendly interfaces. Paying meticulous attention to detail, I focus on creating visually appealing designs that offer an exceptional user experience.
+
+When it comes to the back-end, I'm adept in PHP and JavaScript (Node.js). I specialize in building robust RESTful APIs, handling both SQL and NoSQL databases, and implementing stringent security measures to protect sensitive data.
+
+My ongoing pursuit of a degree in Computer Science demonstrates my commitment to staying updated with the latest advancements in the tech world. Let's build something incredible together! ✨
 </p>
 
