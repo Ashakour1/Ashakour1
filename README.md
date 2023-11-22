@@ -1,5 +1,3 @@
-
-
 # 🚀Abdishakour!
 <hr>
 
