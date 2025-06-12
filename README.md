@@ -2,16 +2,14 @@
 <hr>
 
 
-Hey there! 👋 I'm a dedicated Fullstack Developer with 2 years of experience and currently a third-year student pursuing a Computer Science degree at Jamhuuriyo University of Science & Technology.
+Hi there! 👋
+I’m a passionate Software Developer with 3 years of solid experience, currently in my final year studying Computer Science at Jamhuuriyo University of Science & Technology.
 
-My expertise spans both front-end and back-end development, allowing me to create top-notch web applications. I'm passionate about crafting seamless, user-friendly solutions that meet the unique needs of businesses and users.
+Throughout my journey, I’ve worked with different organizations and startups, where I contributed to developing various web platforms, management systems, and custom business applications. My roles have allowed me to handle complete development cycles — from planning and system design to implementation and delivery — always focusing on solving real-world problems through technology.
 
-On the front-end, I thrive in HTML, CSS, and JavaScript, using popular frameworks like React and Svelte to build captivating and user-friendly interfaces. Paying meticulous attention to detail, I focus on creating visually appealing designs that offer an exceptional user experience.
+I collaborate closely with teams to deliver reliable and efficient solutions that drive meaningful impact and meet client goals.
 
-When it comes to the back-end, I'm adept in PHP and JavaScript (Node.js). I specialize in building robust RESTful APIs, handling both SQL and NoSQL databases, and implementing stringent security measures to protect sensitive data.
-
-My ongoing third-year journey as a Computer Science student at Jamhuuriyo University of Science & Technology underscores my commitment to staying abreast of the latest advancements in the tech world. Let's collaborate and build something extraordinary! ✨
-
+I enjoy bringing creativity into my work, finding smart solutions to challenges, and constantly learning to stay ahead in the fast-moving tech world. Always open to new projects, collaborations, and challenges!
 
 ### Contact me
 🔩 My Email [Email](engshakrayare114@gmai.com)
